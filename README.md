@@ -1,4 +1,4 @@
-# Week1- relection--> tour
+# Week1- relection--> tutorial by Jimmy Zhang
 ## Paradigm 
 A **Paradigm** is a way to classifying programming language according to the style in which program are written in that language  
 There are several kinds of major programming paradigms:
