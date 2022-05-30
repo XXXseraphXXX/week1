@@ -69,7 +69,15 @@ it is clean and concise.
 Here we are using a factorial recursive function in the python language .
 
 ![factorial](fac.png)
+# Resources
+Practice on recursion(c):
+https://www.w3resource.com/c-programming-exercises/recursion/index.php
 
+Practice on recursion(python):
+https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php
+
+read more on paradigm:
+https://en.wikipedia.org/wiki/Programming_paradigm
 # Reference
 Recursion Explained: What Is Recursion in Programming?, https://www.enjoyalgorithms.com/blog/recursion-explained-how-recursion-works-in-programming. 
 
