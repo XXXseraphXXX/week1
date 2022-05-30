@@ -84,3 +84,5 @@ Recursion Explained: What Is Recursion in Programming?, https://www.enjoyalgorit
 Webber, Adam. Modern Programming Languages: A Practical Introduction. Franklin, Beedle &amp; Associates, 2002. 
 
 “Learn Python Functions - Quick Python Project for Beginners.” YouTube, YouTube, 30 Oct. 2021, https://m.youtube.com/watch?v=aftw0WX4oCc&amp;pp=QAFIAQ%3D%3D. 
+
+Lecture notes
